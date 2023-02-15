@@ -27,7 +27,3 @@ BaseSitePath /var/www/vhosts
 ## AUTHOR
 
  * TSUCHIYA Masatoshi
- 
-## LICENSE
-
- * GPL3
